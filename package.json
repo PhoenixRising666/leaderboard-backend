@@ -1,0 +1,17 @@
+{
+  "name": "leaderboard-backend",
+  "version": "1.0.0",
+  "description": "Leaderboard backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
